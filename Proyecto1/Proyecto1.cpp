@@ -20,6 +20,9 @@ int heroHP = 2000;
 bool heroIsAlive = true;
 
 
+//new enemy
+int enemyHp2 = 200;
+
 
 
 
